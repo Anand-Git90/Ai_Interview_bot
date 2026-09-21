@@ -13,7 +13,7 @@ Note : make sure streamlit is installed in your system.<br>
 <br>
 
 
-<b> Another way to access this project is through link : </b>https://interview-chatbot-3dfj5gfdfdbemydu6bvmxm.streamlit.app/
+<b> Another way to access this project is through link : </b>https://aiinterviewbot-fgwzertmsjdagpcryf2wn9.streamlit.app/
 <br><br>
 
 <b> Login and Sighnup page ----</b>
