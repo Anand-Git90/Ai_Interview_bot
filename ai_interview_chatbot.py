@@ -10,12 +10,12 @@ from auth import show_login_signup
 
 
 # Load environment variables from .env file if you are useing dotenv then uncomment the below two line
-load_dotenv()
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+# load_dotenv()
+# GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 
 #use this whith streamlit cloude sever if using dotenv comment it and uncomment dotenv
-# GEMINI_API_KEY = st.secrets["GEMINI_API_KEY"]
+GEMINI_API_KEY = st.secrets["GEMINI_API_KEY"]
 
 
 # --- STREAMLIT CONFIG ---
