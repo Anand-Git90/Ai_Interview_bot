@@ -4,7 +4,7 @@ import pandas as pd
 import os
 import re
 # if you want to use this chta bot using env file use the below line else comment it 
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 from auth import show_login_signup
 
 
